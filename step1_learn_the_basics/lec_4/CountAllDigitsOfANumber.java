@@ -13,6 +13,6 @@ public class CountAllDigitsOfANumber {
 
     public static void main(String args[]){
         CountAllDigitsOfANumber num = new CountAllDigitsOfANumber();
-        num.countDigit(45);
+        num.countDigit(78);
     }
 }
