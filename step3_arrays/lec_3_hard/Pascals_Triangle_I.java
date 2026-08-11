@@ -1,4 +1,4 @@
-package step3_arrays.lec_2_medium;
+package step3_arrays.lec_3_hard;
 
 public class Pascals_Triangle_I {
     public int pascalTriangleI(int r, int c){
