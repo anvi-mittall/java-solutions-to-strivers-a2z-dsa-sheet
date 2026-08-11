@@ -1,4 +1,4 @@
-package step3_arrays.lec_2_medium;
+package step3_arrays.lec_3_hard;
 
 import java.util.ArrayList;
 import java.util.List;
