@@ -40,4 +40,10 @@ public class implement_atoi {
         // 5. Sign lagakar return
         return num * sign;
     }
+
+    public static void main(String[] args) {
+        implement_atoi obj = new implement_atoi();
+        String s = "   -42";
+        System.out.println(obj.myAtoi(s));
+    }
 }
